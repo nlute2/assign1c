@@ -16,5 +16,5 @@ int main()
   cups = cups % 4;
 
 
-  cout << quarts << ""
+  cout << quarts << " quart(s)" << cups << " cup(s)" << tablespoons << " tablespoons(s)" ;
 }
