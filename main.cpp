@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
-  cout << "Hello world" << endl;
+  int teaspoons;
+  cout << "Enter the number of teaspoons: " cin <<
 }
