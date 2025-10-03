@@ -13,7 +13,8 @@ int main()
   int cups = tablespoons / 16;
   tablespoons = tablespoons % 16;
   int quarts = cups / 4;
-  quarts = cups % 4;
+  cups = cups % 4;
 
 
+  cout << quarts << ""
 }
