@@ -10,5 +10,5 @@ int main()
 
   int tablespoons = teaspoons / 3;
   teaspoons = teaspoons % 3;
-  int 
+  int cups = 
 }
