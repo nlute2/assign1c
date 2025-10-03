@@ -16,7 +16,7 @@ int main()
   int quarts = cups / 4;
   cups = cups % 4;
 
-  cout << quarts << " quart(s)" << endl
+  cout << quarts << " quart(s)" << endl //output 
        << cups << " cup(s)" << endl
        << tablespoons << " tablespoons(s)" << endl
        << teaspoons << " teaspoon(s)" << endl;
